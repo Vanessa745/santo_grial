@@ -14,7 +14,7 @@
 .cabecera {
     width: 100%;
     height: 140px;
-    background-color: red;
+    background-color: rgb(125, 139, 195);
 }
 
 .contenedor2 {
@@ -33,7 +33,7 @@
 }
 
 .principal {
-    background-color: violet;
+    background-color: rgb(235, 132, 170);
     width: 58%;
     /* flex-basis: 500px;
     flex-grow: 2;
